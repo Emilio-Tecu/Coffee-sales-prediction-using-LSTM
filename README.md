@@ -9,6 +9,6 @@ El conjunto de datos se obtuvo de Kaggle:
 [Coffee Sales Dataset by ihelon](https://www.kaggle.com/datasets/ihelon/coffee-sales)
 
 Se utilizó una red neuronal LSTM  para capturar dependencias temporales en los datos de ventas por hora.  
-El modelo logró un rendimiento **R² = 0.56**, lo cual indica un nivel de predicción decente, aunque con espacio para mejoras.
+El modelo logró un rendimiento **R² = 0.56**, lo cual indica un nivel de predicción decente.
 
 
